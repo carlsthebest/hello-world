@@ -1,6 +1,2 @@
 # hello-world
-standard
-
-
-
-just me again
+ readme-edits
